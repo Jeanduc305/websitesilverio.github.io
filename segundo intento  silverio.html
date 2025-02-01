@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página Personal</title>
+</head>
+<body>
+
+    <h1>Bienvenido a Mi Página Personal</h1>
+
+    <h2>Datos Biográficos</h2>
+    <p><strong>Nombre:</strong> Cesar Alvarez</p>
+    <p><strong>Edad:</strong> 35 años</p>
+    <p><strong>Carrera:</strong> Licenciatura en Sistemas</p>
+    <p><strong>Email:</strong> jeancarlosalvarez07@gmail.com</p>
+
+    <h2>Horario de Clases - Semestre 2025</h2>
+    <table>
+        <tr>
+            <th>Día</th>
+            <th>Hora</th>
+            <th>Materia</th>
+            <th>Profesor</th>
+        </tr>
+        <tr>
+            <td>Lunes</td>
+            <td>4:00 PM </td>
+            <td>Estadistica </td>
+            <td>Edwardo Estrella</td>
+        </tr>
+        <tr>
+            <td>Martes</td>
+            <td>2:00PM </td>
+            <td>Algoritmos Computacionales</td>
+            <td>Angel Ascencio</td>
+        </tr>
+        <tr>
+            <td>Miércoles</td>
+            <td>7:00AM</td>
+            <td>Lab Lenguaje de Prog 3</td>
+            <td>Radhames Silverio Gonzalez</td>
+        </tr>
+        <tr>
+            <td>Jueves</td>
+            <td>6:00PM </td>
+            <td>Investigacion de Operaciones</td>
+            <td>Natanael Ureña Castillo</td>
+        </tr>
+        <tr>
+            <td>Sabado </td>
+            <td>7:00AM</td>
+            <td>Lenguaje De Prog 3 Teoria</td>
+            <td>Edian Franklin Franco De los Santos</td>
+        </tr>
+    </table>
+
+</body>
+</html>
